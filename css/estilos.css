@@ -1,7 +1,7 @@
 body
 {
 
-    color:red;
+    color:rgba(255, 85, 0, 0.807);
     text-align:left;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -29,4 +29,8 @@ body
 #container h1
 {
     font-size: 70px;
+}
+#post
+{
+    background: rgb(0, 110, 255);
 }
